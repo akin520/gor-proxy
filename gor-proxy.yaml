@@ -1,0 +1,10 @@
+prefix: "sandbox"
+host:
+  - "163.cn"
+  - "baidu.com"
+exhost:
+  - "tongji"
+  - "sandbox"
+  - "static"
+path:
+  - "weixinjssdk"
