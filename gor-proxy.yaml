@@ -1,7 +1,7 @@
 prefix: "sandbox"
 host:
-  - "163.cn"
-  - "baidu.com"
+  - "akin.cn"
+  - "akin.com"
 exhost:
   - "tongji"
   - "sandbox"
