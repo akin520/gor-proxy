@@ -8,3 +8,4 @@ exhost:
   - "static"
 path:
   - "weixinjssdk"
+  - "mip"
